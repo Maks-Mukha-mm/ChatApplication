@@ -1,0 +1,1 @@
+A real‑time chat application built in Java using sockets that allows multiple clients to connect and communicate through a central server with message broadcasting.![img.png](img.png)
